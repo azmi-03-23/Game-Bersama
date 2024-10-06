@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a278c1dfc510604799fb56acb1f0d17, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  nextSceneInd: 16
+  prevSceneInd: 14
+  backsound: {fileID: 8300000, guid: a8de42ca4072dba499e2ac2193240276, type: 3}
+  firstStorySceneInSequence: {fileID: 11400000, guid: 8f11876854f211e47a206e465391d6db, type: 2}
+  lastStorySceneInSequence: {fileID: 11400000, guid: 9adc7332a1fffac498fa4d13b3259397, type: 2}
+  sceneCount: 20

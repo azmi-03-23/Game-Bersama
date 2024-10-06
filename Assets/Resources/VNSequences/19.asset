@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db24426134bf5f479272d4ee00f64d1, type: 3}
+  m_Name: 19
+  m_EditorClassIdentifier: 
+  nextSceneInd: 20
+  prevSceneInd: 18
+  backsound: {fileID: 8300000, guid: 1f83a0c9a9f9fa24eaae74903fff545b, type: 3}
+  namaLevel: Kalimat
+  level: 3
+  games:
+  - namaGame: 1
+    tipeGame: SentenceWordOrderMatch
+    sublevelGame: 1
+  - namaGame: 2
+    tipeGame: SentenceWordOrderMatch
+    sublevelGame: 2
+  - namaGame: 3
+    tipeGame: SentenceWordOrderMatch
+    sublevelGame: 3
+  bgImg: {fileID: 21300000, guid: d9390279a933996409c9c45437b1e53f, type: 3}

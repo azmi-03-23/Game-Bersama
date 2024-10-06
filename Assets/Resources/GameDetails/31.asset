@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f70ccffc5c73ce479ca800d71c5b04f, type: 3}
+  m_Name: 31
+  m_EditorClassIdentifier: 
+  tipe: SentenceWordOrderMatch
+  namaLevel: 1
+  nama: Cerita-Kalimat
+  sublevel: 1
+  level: 3
+  learningActivity: {fileID: 8300000, guid: ea9697654aac2b342ba2af185cb6fd60, type: 3}
+  backgroundGame: {fileID: 21300000, guid: d9390279a933996409c9c45437b1e53f, type: 3}
+  questions:
+  - gambarKalimat: {fileID: 21300000, guid: 2429d340b939fb8418cbb2352551679a, type: 3}
+    audioKalimat: {fileID: 8300000, guid: d56ff2ce4ef0d2e4ab6fd685a760713c, type: 3}
+    answers:
+    - teksKata: Budi
+    - teksKata: membaca
+    - teksKata: buku
+  - gambarKalimat: {fileID: 21300000, guid: 59df199a7f39a854ba200698a37e6ae4, type: 3}
+    audioKalimat: {fileID: 8300000, guid: 84aad9c9de9ba454fa896c324b6cead7, type: 3}
+    answers:
+    - teksKata: Ani
+    - teksKata: memasak
+    - teksKata: sup
+    - teksKata: ayam
+  - gambarKalimat: {fileID: 21300000, guid: a0c4c7e4e2b7e5c48bf874ef25236e78, type: 3}
+    audioKalimat: {fileID: 8300000, guid: 1cc69d8deef5c6349b4641070835f287, type: 3}
+    answers:
+    - teksKata: Andi
+    - teksKata: belajar
+    - teksKata: matematika
+  - gambarKalimat: {fileID: 21300000, guid: 321af4272096e264485c91c71778a8f4, type: 3}
+    audioKalimat: {fileID: 8300000, guid: 35a6ea4af287fba45ba15a46a80ab3c8, type: 3}
+    answers:
+    - teksKata: Rudi
+    - teksKata: menyapu
+    - teksKata: lantai
+    - teksKata: kamarnya
+  - gambarKalimat: {fileID: 21300000, guid: 9c8e2590d9d8b3e40b76260d11cb7f59, type: 3}
+    audioKalimat: {fileID: 8300000, guid: 480760e30d3739a43ba717bc2c7cd86a, type: 3}
+    answers:
+    - teksKata: Siti
+    - teksKata: bermain
+    - teksKata: bersama
+    - teksKata: temannya

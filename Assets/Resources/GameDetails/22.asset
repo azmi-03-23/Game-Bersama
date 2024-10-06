@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a1270dff1036a84a9258665224874d6, type: 3}
+  m_Name: 22
+  m_EditorClassIdentifier: 
+  tipe: WordSubLexicalMatch
+  namaLevel: Kata
+  nama: 2
+  sublevel: 2
+  level: 2
+  learningActivity: {fileID: 8300000, guid: 1a476d98bdd7e4d4d93a5f5fa224236f, type: 3}
+  backgroundGame: {fileID: 21300000, guid: 470e4e93e9f4d384b86aed9bd31b72d2, type: 3}
+  questions:
+  - word: {fileID: 11400000, guid: a36b2298b2900b44baf937cfe0f11650, type: 2}
+    answers:
+    - teksSukuKata: ge
+      audioSukuKata: {fileID: 8300000, guid: 255cc7a108a189c4d8a7c8411cd28c51, type: 3}
+    - teksSukuKata: las
+      audioSukuKata: {fileID: 8300000, guid: aa7d785cca60909428366cdee77212e4, type: 3}
+    otherChoices1:
+    - teksSukuKata: ke
+      audioSukuKata: {fileID: 8300000, guid: e81ef77d79feee84183396139b6d22ad, type: 3}
+    - teksSukuKata: be
+      audioSukuKata: {fileID: 8300000, guid: 19502aad78731c14d8a5c47b058f2607, type: 3}
+    otherChoices2:
+    - teksSukuKata: nas
+      audioSukuKata: {fileID: 8300000, guid: 97eeefd2315bcf043a3b234c9eb98560, type: 3}
+    - teksSukuKata: dal
+      audioSukuKata: {fileID: 8300000, guid: 78f8d85e4893264449b005fa88311d25, type: 3}
+  - word: {fileID: 11400000, guid: 772399a238bab9943bcd3d2064776b92, type: 2}
+    answers:
+    - teksSukuKata: bu
+      audioSukuKata: {fileID: 8300000, guid: 887a8e3cee972874286fa0658783a949, type: 3}
+    - teksSukuKata: lan
+      audioSukuKata: {fileID: 8300000, guid: 8e215f612ea47c34595f93dc931b0421, type: 3}
+    otherChoices1:
+    - teksSukuKata: du
+      audioSukuKata: {fileID: 8300000, guid: e4bb044f820e07244ae6096722e111a3, type: 3}
+    - teksSukuKata: pu
+      audioSukuKata: {fileID: 8300000, guid: b87457b1b92100b428431c9a9c245a3d, type: 3}
+    otherChoices2:
+    - teksSukuKata: nan
+      audioSukuKata: {fileID: 8300000, guid: 0af9fd0f8d64c214fb1d73b59ba12b57, type: 3}
+    - teksSukuKata: ran
+      audioSukuKata: {fileID: 8300000, guid: 0c439e198dba23b4993dde4124338105, type: 3}
+  - word: {fileID: 11400000, guid: 570dda315f3759d4fb3c523b84beaa89, type: 2}
+    answers:
+    - teksSukuKata: ru
+      audioSukuKata: {fileID: 8300000, guid: 195f04031ea01d14586743887333fe3a, type: 3}
+    - teksSukuKata: mah
+      audioSukuKata: {fileID: 8300000, guid: c1603f16e9c94e64f8f51623f796d05e, type: 3}
+    otherChoices1:
+    - teksSukuKata: lu
+      audioSukuKata: {fileID: 8300000, guid: b9a7c6f19a1a0a444b97ef3ddf448463, type: 3}
+    - teksSukuKata: xu
+      audioSukuKata: {fileID: 8300000, guid: 811a3dc5d25b15a4e8621d869ab07581, type: 3}
+    otherChoices2:
+    - teksSukuKata: gak
+      audioSukuKata: {fileID: 8300000, guid: 7fe04d45635a67a45b277c8624546bdc, type: 3}
+    - teksSukuKata: af
+      audioSukuKata: {fileID: 8300000, guid: 6eb502a3fb3129743a3a98ec03ed9781, type: 3}
+  - word: {fileID: 11400000, guid: 8b708f5644dbbc441a5fa3a0819b30c3, type: 2}
+    answers:
+    - teksSukuKata: i
+      audioSukuKata: {fileID: 8300000, guid: cb53810ca7dacbd49ad1ddf5c2602425, type: 3}
+    - teksSukuKata: kan
+      audioSukuKata: {fileID: 8300000, guid: b0ccafa109b331e4b8eaa4c07083921c, type: 3}
+    otherChoices1:
+    - teksSukuKata: a
+      audioSukuKata: {fileID: 8300000, guid: 3f1ecce2d96fadf488837b9300b495ba, type: 3}
+    - teksSukuKata: o
+      audioSukuKata: {fileID: 8300000, guid: 941a3f2fd7ad76f45b4896fe4ece932a, type: 3}
+    otherChoices2:
+    - teksSukuKata: ban
+      audioSukuKata: {fileID: 8300000, guid: 5bdfd6c5ed7124140b2931d631a3c4ea, type: 3}
+    - teksSukuKata: kal
+      audioSukuKata: {fileID: 8300000, guid: 69d713e293ccef14e8089e5130f871a0, type: 3}
+  - word: {fileID: 11400000, guid: fab7215af8cc8ab41a677e85abe7e7ba, type: 2}
+    answers:
+    - teksSukuKata: a
+      audioSukuKata: {fileID: 8300000, guid: 3f1ecce2d96fadf488837b9300b495ba, type: 3}
+    - teksSukuKata: yam
+      audioSukuKata: {fileID: 8300000, guid: 68194ec980b125b42a08a11559306b18, type: 3}
+    otherChoices1:
+    - teksSukuKata: i
+      audioSukuKata: {fileID: 8300000, guid: cb53810ca7dacbd49ad1ddf5c2602425, type: 3}
+    - teksSukuKata: u
+      audioSukuKata: {fileID: 8300000, guid: 8f35c2109d2ed6e4da1320b168d8c7c9, type: 3}
+    otherChoices2:
+    - teksSukuKata: bam
+      audioSukuKata: {fileID: 8300000, guid: f91354fac581ad74a99832599a7cecc3, type: 3}
+    - teksSukuKata: sad
+      audioSukuKata: {fileID: 8300000, guid: 1142a8b99f235f14a8756bb3ce110024, type: 3}
+  - word: {fileID: 11400000, guid: 230a9a54febf05f41947bd6c5f5dbac4, type: 2}
+    answers:
+    - teksSukuKata: gar
+      audioSukuKata: {fileID: 8300000, guid: f69861309022de94d85ec4178d075c27, type: 3}
+    - teksSukuKata: pu
+      audioSukuKata: {fileID: 8300000, guid: b87457b1b92100b428431c9a9c245a3d, type: 3}
+    otherChoices1:
+    - teksSukuKata: sar
+      audioSukuKata: {fileID: 8300000, guid: eef71fdc5f684ed4c993341d8022cde9, type: 3}
+    - teksSukuKata: gas
+      audioSukuKata: {fileID: 8300000, guid: 5726719fdced48a43b0ba9b5b6d0734e, type: 3}
+    otherChoices2:
+    - teksSukuKata: bu
+      audioSukuKata: {fileID: 8300000, guid: 887a8e3cee972874286fa0658783a949, type: 3}
+    - teksSukuKata: du
+      audioSukuKata: {fileID: 8300000, guid: e4bb044f820e07244ae6096722e111a3, type: 3}
+  - word: {fileID: 11400000, guid: 9d5bf46498ee333449bfcecb2bc4aecf, type: 2}
+    answers:
+    - teksSukuKata: ro
+      audioSukuKata: {fileID: 8300000, guid: 7c07f053d68ee344ba1c52adadb5f596, type: 3}
+    - teksSukuKata: bot
+      audioSukuKata: {fileID: 8300000, guid: 09371e7c92e4dd0439928dfa48122495, type: 3}
+    otherChoices1:
+    - teksSukuKata: wat
+      audioSukuKata: {fileID: 8300000, guid: 8dc3509e3dc4ba64e99fe3c18e4d5769, type: 3}
+    - teksSukuKata: gen
+      audioSukuKata: {fileID: 8300000, guid: 108e8608e2631dc46a193b26fa93ea89, type: 3}
+    otherChoices2:
+    - teksSukuKata: bok
+      audioSukuKata: {fileID: 8300000, guid: 7b1c2e478cbf1bc42a7344effb07f8b0, type: 3}
+    - teksSukuKata: sos
+      audioSukuKata: {fileID: 8300000, guid: d352ba2c04faf8c4bb36f5bdfffc0ead, type: 3}
+  - word: {fileID: 11400000, guid: 75992f8f8f4937a438c5e62b17b6a9fd, type: 2}
+    answers:
+    - teksSukuKata: le
+      audioSukuKata: {fileID: 8300000, guid: 9637219bd19e911469568d03334f4df4, type: 3}
+    - teksSukuKata: bah
+      audioSukuKata: {fileID: 8300000, guid: 48584e6304e7d8a4fa0029adfab5de3c, type: 3}
+    otherChoices1:
+    - teksSukuKata: ne
+      audioSukuKata: {fileID: 8300000, guid: 12940202814cbb04290f0bba4973663d, type: 3}
+    - teksSukuKata: re
+      audioSukuKata: {fileID: 8300000, guid: a78e00f19df6a5f47aab7e131ae80b0f, type: 3}
+    otherChoices2:
+    - teksSukuKata: kat
+      audioSukuKata: {fileID: 8300000, guid: 8f8c21a2b5399b2488a28648f895c2d7, type: 3}
+    - teksSukuKata: bis
+      audioSukuKata: {fileID: 8300000, guid: 8c8862a3843063f4ebe0c88d4caef041, type: 3}
+  - word: {fileID: 11400000, guid: 6af1437149f2c174ea63591e90f4bc53, type: 2}
+    answers:
+    - teksSukuKata: na
+      audioSukuKata: {fileID: 8300000, guid: 493ff9419ce26d34eb87af344d836f08, type: 3}
+    - teksSukuKata: nas
+      audioSukuKata: {fileID: 8300000, guid: 97eeefd2315bcf043a3b234c9eb98560, type: 3}
+    otherChoices1:
+    - teksSukuKata: ka
+      audioSukuKata: {fileID: 8300000, guid: 52cd20b7bbd7cfb478492b62059e53e7, type: 3}
+    - teksSukuKata: ga
+      audioSukuKata: {fileID: 8300000, guid: 58f275500f9a5c746be1116ce50c93b3, type: 3}
+    otherChoices2:
+    - teksSukuKata: bay
+      audioSukuKata: {fileID: 8300000, guid: 0a51c9609efbd47478371cf2739294a0, type: 3}
+    - teksSukuKata: sau
+      audioSukuKata: {fileID: 8300000, guid: 8945b3dbf1704844fb22fead337ca4f0, type: 3}
+  - word: {fileID: 11400000, guid: c1b3aa55850b0dd4ba2c99e27c45054b, type: 2}
+    answers:
+    - teksSukuKata: al
+      audioSukuKata: {fileID: 8300000, guid: 96b9d844118cb094cbd3fdbd901212d2, type: 3}
+    - teksSukuKata: pu
+      audioSukuKata: {fileID: 8300000, guid: b87457b1b92100b428431c9a9c245a3d, type: 3}
+    - teksSukuKata: kat
+      audioSukuKata: {fileID: 8300000, guid: 8f8c21a2b5399b2488a28648f895c2d7, type: 3}
+    otherChoices1:
+    - teksSukuKata: bad
+      audioSukuKata: {fileID: 8300000, guid: a56704c8dd50a9c40b7e6960937a755c, type: 3}
+    - teksSukuKata: xu
+      audioSukuKata: {fileID: 8300000, guid: 811a3dc5d25b15a4e8621d869ab07581, type: 3}
+    otherChoices2:
+    - teksSukuKata: yah
+      audioSukuKata: {fileID: 8300000, guid: 5e89bc5d459fa7042abbcffa2ded51da, type: 3}
+    - teksSukuKata: bal
+      audioSukuKata: {fileID: 8300000, guid: e3c1a0fe41a3cc4409af3d6cf694cd20, type: 3}

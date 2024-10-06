@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b02d59aa6031fd47ac1065e58dd8a8a, type: 3}
+  m_Name: Balok
+  m_EditorClassIdentifier: 
+  spriteWord: {fileID: -1554091172, guid: e7afe101a97720e4698793ad9f3d5ba8, type: 3}
+  audioWord: {fileID: 8300000, guid: 08e556c0abac9a34a9cc5a4cd33f7609, type: 3}
+  teksWord: balok

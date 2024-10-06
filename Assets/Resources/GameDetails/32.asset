@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f70ccffc5c73ce479ca800d71c5b04f, type: 3}
+  m_Name: 32
+  m_EditorClassIdentifier: 
+  tipe: SentenceWordOrderMatch
+  namaLevel: 2
+  nama: Cerita-Kalimat
+  sublevel: 2
+  level: 3
+  learningActivity: {fileID: 8300000, guid: ea9697654aac2b342ba2af185cb6fd60, type: 3}
+  backgroundGame: {fileID: 21300000, guid: d9390279a933996409c9c45437b1e53f, type: 3}
+  questions:
+  - gambarKalimat: {fileID: 21300000, guid: c0eba2496453c7c479789c78eb27a994, type: 3}
+    audioKalimat: {fileID: 8300000, guid: fcda59e8af55ef842997ed7ea91244a5, type: 3}
+    answers:
+    - teksKata: Bebek
+    - teksKata: berenang
+    - teksKata: di
+    - teksKata: danau
+  - gambarKalimat: {fileID: 21300000, guid: 2588946b1c9bc324e89651e37c2f3f40, type: 3}
+    audioKalimat: {fileID: 8300000, guid: 4c1a2ab55750dea4e992680ff543aa97, type: 3}
+    answers:
+    - teksKata: Burung
+    - teksKata: terbang
+    - teksKata: di
+    - teksKata: langit
+  - gambarKalimat: {fileID: 21300000, guid: 884219cd3bd73964a8f1c8c1a94d068f, type: 3}
+    audioKalimat: {fileID: 8300000, guid: 66758bf73946acc4193c4705afeeb1c8, type: 3}
+    answers:
+    - teksKata: Kuda
+    - teksKata: berlari
+    - teksKata: kencang
